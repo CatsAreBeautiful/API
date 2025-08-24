@@ -1,6 +1,6 @@
 [project]
 name = "api"
-version = "0.1.0"
+version = "0.1.2"
 description = "API Server for catsarebeautiful.de"
 readme = "README.md"
 requires-python = ">=3.13"
